@@ -1,2 +1,2 @@
 #  YouTube homepage clone 
-A simplified YouTube homepage clone created using HTML and CSS.
+A simplified static clone of the YouTube homepage that allowed me to practice my HTML and CSS skills.
